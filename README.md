@@ -1,13 +1,8 @@
-<h2 align="left">Hi 👋! Mohd Ashfaq here, a Data Scientist passionate about transforming data into impactful solutions. I've pioneered Gesture Recognition for seamless human-computer interaction and crafted Recommendation Systems for social media platforms. Committed to building products that contribute to societal welfare. Let's innovate with data! 
-
-
-
-
-
+<h2 align="left">Hi 👋! Abdul Hadi Ali here, a Data Scientist passionate about transforming data into impactful solutions. I've pioneered Gesture Recognition for seamless human-computer interaction and crafted Recommendation Systems for social media platforms. Committed to building products that contribute to societal welfare. Let's innovate with data! 
 </h2>
 
 ###
-
+# CHAT WITH PDF
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
